@@ -16,7 +16,8 @@
 
 - 3x3 kernel
 
-- # *1. Convolution*
+
+# *1. Convolution*
 
 Convolution can be thought of as a mathematical Operator that applies the effects of a operand which can itself be a n dimension vector or vector set on an Object defined as a vector or vector set. For example, a Convolution operator applied on two sinusoidal wave will result in the combined effect of both. It can be the overlapping effect of 2 or more sound waves or Electrical signals with different phases etc.,
 
