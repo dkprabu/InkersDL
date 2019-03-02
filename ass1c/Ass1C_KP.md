@@ -26,11 +26,6 @@ Convolution can be thought of as a mathematical Operator that applies the effect
 
 
 
-```english
-<img src="https://github.com/dkprabu/InkersDL/blob/master/ass1c/Convolution1.png"
-     alt="Convolution"; />
-```
-
 # *2. Filters/Kernels*
 
 As mentioned above, in a Convolution Neural Network, a Image of nxn pixels represented in the form of a nxn dimensional matrix with 3 channels representing respective RGB channels. A filter or a kernel of mxm matrix can be convoluted upon the nxn image vector to extract features from the image like vertical, horizontal or diagonal separators.
